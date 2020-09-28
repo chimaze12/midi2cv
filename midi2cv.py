@@ -92,7 +92,7 @@ def match_note_to_freq(freq):
 
 def do_tuning():
     print(
-        """note! before tuning...
+        """note! before chiming...
 
 - ...make sure that your synth is connected
   via the USB audio adapter line-in. 
